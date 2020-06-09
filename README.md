@@ -13,4 +13,4 @@ Project is created with:
 
 * Pandas 0.25.1
 * Matplotlib: 3.0.1
-* BeautifulSoup: 4.8.2
+
